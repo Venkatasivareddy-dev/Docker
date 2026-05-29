@@ -1,1 +1,1 @@
-FROM nginx
+FROM alamalinux:9
