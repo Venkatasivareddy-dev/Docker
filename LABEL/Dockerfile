@@ -5,3 +5,4 @@ LABEL project="expense" \
       owner="sivareddy" \
       version="1.0.0" \
       description="nginx installed image"
+CMD ["nginx", "-g", "daemon off;"]
