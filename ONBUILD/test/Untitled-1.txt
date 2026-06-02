@@ -1,0 +1,8 @@
+
+
+LABEL project="expense" \
+      environment="dev" \
+      owner="sivareddy" \
+      version="1.0.0" \
+      description="nginx installed image"
+CMD ["nginx", "-g", "daemon off;"]
